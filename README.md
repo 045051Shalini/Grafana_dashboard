@@ -183,7 +183,7 @@ i) Extreme Wind Gust Events graph shows multiple spikes reaching 50 units betwee
 
 [![Watch the Video](https://img.youtube.com/vi/SC49xJftPho/0.jpg)](https://www.youtube.com/watch?v=SC49xJftPho "Watch the Video")
 
-ii) The humidity-pressure relationship display (shown in bar format) reveals periodic fluctuations that could signal approaching weather changes
+ii) The humidity-pressure relationship heat map display reveals periodic fluctuations that could signal approaching weather changes
 
 [![Watch the Video](https://img.youtube.com/vi/9CejtUgxYks/0.jpg)](https://www.youtube.com/watch?v=9CejtUgxYks "Watch the Video")
 
