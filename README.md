@@ -11,47 +11,47 @@ Dataset Attributes:
 
 ## 1.Temperature-related:
 
-- i) temp9am, temp3pm: Temperature readings at 9AM and 3PM
-- ii) min_temp, max_temp: Daily minimum and maximum temperatures
+- temp9am, temp3pm: Temperature readings at 9AM and 3PM
+- min_temp, max_temp: Daily minimum and maximum temperatures
 - Real-time temperature variation (shown in dashboard)
 
 ## 2.Wind-related:
 
-- i) wind_dir9am, wind_dir3pm: Wind direction at 9AM and 3PM
-- ii) wind_gust_dir: Wind gust direction
-- iii) wind_gust_speed: Speed of wind gusts
-- iv) windspeed9am, windspeed3pm: Wind speeds at 9AM and 3PM
+- wind_dir9am, wind_dir3pm: Wind direction at 9AM and 3PM
+- wind_gust_dir: Wind gust direction
+- wind_gust_speed: Speed of wind gusts
+- windspeed9am, windspeed3pm: Wind speeds at 9AM and 3PM
 
 ## 3.Atmospheric conditions:
 
-- i) pressure9am, pressure3pm: Atmospheric pressure readings
-- ii) humidity9am: Morning humidity levels
-- iii) rainfall: Precipitation amount
-- iv) evaporation: Water evaporation rate
-- v) sunshine: Hours of sunshine
-- vi) rain_today_code: Binary indicator for rainfall
+- pressure9am, pressure3pm: Atmospheric pressure readings
+- humidity9am: Morning humidity levels
+- rainfall: Precipitation amount
+- evaporation: Water evaporation rate
+- sunshine: Hours of sunshine
+- rain_today_code: Binary indicator for rainfall
 
 
 # Objectives
 
 ## Weather Pattern Monitoring:
 
-- i) Track real-time weather conditions
-- ii) Monitor extreme weather events
-- iii) Analyze daily temperature variations
-- iv) Study relationship between humidity and pressure
+- Track real-time weather conditions
+- Monitor extreme weather events
+- Analyze daily temperature variations
+- Study relationship between humidity and pressure
 
 ## Resource Management:
 
-- i) Optimize energy usage based on temperature patterns
-- ii) Plan outdoor activities around weather conditions
-- iii) Manage water resources using rainfall and evaporation data
+- Optimize energy usage based on temperature patterns
+- Plan outdoor activities around weather conditions
+- Manage water resources using rainfall and evaporation data
 
 ## Risk Assessment:
 
-- i) Monitor extreme wind events
-- ii) Track rainfall patterns for flood risk
-- iii)Analyze pressure changes for storm prediction
+- Monitor extreme wind events
+- Track rainfall patterns for flood risk
+- Analyze pressure changes for storm prediction
 
 
 # Queries
