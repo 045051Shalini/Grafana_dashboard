@@ -150,12 +150,12 @@ GROUP BY time(5m) fill(null)
 
 [![Watch the Video](https://img.youtube.com/vi/uvmCbhy4tFo/0.jpg)](https://www.youtube.com/watch?v=uvmCbhy4tFo "Rain Today Status Video")
 
-i) Current Rain Today Status shows 57, indicating moderate rainfall conditions that require attention for weather-dependent operations.
+i) Current Rain Today Status shows 71, indicating moderate rainfall conditions that require attention for weather-dependent operations.
 
 
 [![Watch the Video](https://img.youtube.com/vi/ZiYp4JijVwo/0.jpg)](https://www.youtube.com/watch?v=ZiYp4JijVwo "Watch the Video")
 
-ii) Real-time humidity readings of 0.800 and 0.574 suggest high moisture content in the air, which could impact indoor climate control systems.
+ii) Real-time humidity readings of 0.532 and 0.511 suggest high moisture content in the air, which could impact indoor climate control systems.
 
 [![Watch the Video](https://img.youtube.com/vi/V9WnYtqwNbw/0.jpg)](https://www.youtube.com/watch?v=V9WnYtqwNbw "Watch the Video")
 
@@ -164,17 +164,18 @@ iii) Temperature variation graph shows consistent fluctuation between 20-25°C o
 
 [![Watch the Video](https://img.youtube.com/vi/2J3XFfj8elU/0.jpg)](https://www.youtube.com/watch?v=2J3XFfj8elU "Watch the Video")
 
-Maximum temperature of 40.4° suggests the need for heat stress management protocols during peak hours.
+Maximum temperature of 39.6° suggests the need for heat stress management protocols during peak hours.
 
 ## Resource Management:
 
 [![Watch the Video](https://img.youtube.com/vi/RZBKWtW4iig/0.jpg)](https://www.youtube.com/watch?v=RZBKWtW4iig "Watch Rain Today Status Video")
 
-i) Sunshine value of 5.19 hours versus evaporation rate of 67.2 indicates high evaporation despite moderate sunshine, suggesting efficient water management strategies are needed
+i) Sunshine value of 8.43 hours versus evaporation rate of 37.4 indicates high evaporation despite moderate sunshine, suggesting efficient water management strategies are needed
 
-ii) The dashboard shows significant wind variation (35 units in wind gust data), which could be leveraged for renewable energy planning during peak wind periods
+ii) The dashboard shows significant wind variation (57 units in wind gust data), which could be leveraged for renewable energy planning during peak wind periods
 
 iii) Temperature patterns shown in the real-time variation graph can help optimize HVAC system operations across different time periods
+
 
 ## Risk Assessment:
 
