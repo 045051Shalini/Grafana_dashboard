@@ -14,6 +14,7 @@ iv) Study relationship between humidity and pressure
 
 ## Resource Management:
 
+
 i) Optimize energy usage based on temperature patterns
 ii) Plan outdoor activities around weather conditions
 iii) Manage water resources using rainfall and evaporation data
@@ -151,7 +152,6 @@ GROUP BY time(5m) fill(null)
 [![Watch the Video](https://img.youtube.com/vi/uvmCbhy4tFo/0.jpg)](https://www.youtube.com/watch?v=uvmCbhy4tFo "Rain Today Status Video")
 
 
-
 i) Current Rain Today Status shows 57, indicating moderate rainfall conditions that require attention for weather-dependent operations.
 
 ii) Real-time humidity readings of 0.800 and 0.574 suggest high moisture content in the air, which could impact indoor climate control systems.
@@ -160,6 +160,9 @@ iii) Temperature variation graph shows consistent fluctuation between 20-25°C o
 Maximum temperature of 40.4° suggests the need for heat stress management protocols during peak hours.
 
 ## Resource Management:
+
+[![Watch the Video](https://img.youtube.com/vi/RZBKWtW4iig/0.jpg)](https://www.youtube.com/watch?v=RZBKWtW4iig "Watch Rain Today Status Video")
+
 
 i) Sunshine value of 5.19 hours versus evaporation rate of 67.2 indicates high evaporation despite moderate sunshine, suggesting efficient water management strategies are needed
 
