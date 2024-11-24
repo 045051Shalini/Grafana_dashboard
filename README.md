@@ -145,6 +145,12 @@ GROUP BY time(5m) fill(null)
 
 ## Weather Pattern Monitoring:
 
+<video controls>
+  <source src="https://github.com/arjunk220401/Weather-Data-Grafana-Dashboard-/blob/a32ef276bbd9606e10593364c3e6f8bb77c41334/Rain%20Today%20Status.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 i) Current Rain Today Status shows 57, indicating moderate rainfall conditions that require attention for weather-dependent operations.
 
 ii) Real-time humidity readings of 0.800 and 0.574 suggest high moisture content in the air, which could impact indoor climate control systems.
