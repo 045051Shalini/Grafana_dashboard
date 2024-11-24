@@ -1,12 +1,10 @@
 # Real Time Weather Monitoring and Analysis 
+## Dashboard 
+[![Watch the Video](https://img.youtube.com/vi/yHxQ6yRFchk/0.jpg)](https://www.youtube.com/watch?v=yHxQ6yRFchk "Watch the Video")
 
 # Objectives
 
 ## Weather Pattern Monitoring:
-
-[![Watch the Video](https://img.youtube.com/vi/yHxQ6yRFchk/0.jpg)](https://www.youtube.com/watch?v=yHxQ6yRFchk "Watch the Video")
-
-
 
 i) Track real-time weather conditions
 ii) Monitor extreme weather events
