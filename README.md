@@ -4,7 +4,8 @@
 
 ## Weather Pattern Monitoring:
 
-[Watch the Video on YouTube](https://youtu.be/uvmCbhy4tFo)
+[![Watch the Video](https://img.youtube.com/vi/yHxQ6yRFchk/0.jpg)](https://www.youtube.com/watch?v=yHxQ6yRFchk "Watch the Video")
+
 
 
 i) Track real-time weather conditions
