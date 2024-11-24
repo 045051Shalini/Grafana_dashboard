@@ -14,7 +14,6 @@ iv) Study relationship between humidity and pressure
 
 ## Resource Management:
 
-
 i) Optimize energy usage based on temperature patterns
 ii) Plan outdoor activities around weather conditions
 iii) Manage water resources using rainfall and evaporation data
@@ -171,6 +170,9 @@ ii) The dashboard shows significant wind variation (35 units in wind gust data),
 iii) Temperature patterns shown in the real-time variation graph can help optimize HVAC system operations across different time periods
 
 ## Risk Assessment:
+
+[![Watch the Video](https://img.youtube.com/vi/LhkfP839mP8/0.jpg)](https://www.youtube.com/watch?v=LhkfP839mP8 "Watch the Video")
+
 
 i) Extreme Wind Gust Events graph shows multiple spikes reaching 50 units between 01:10-01:30, indicating potential safety risks for outdoor operations
 
