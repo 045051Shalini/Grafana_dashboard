@@ -145,12 +145,7 @@ GROUP BY time(5m) fill(null)
 
 ## Weather Pattern Monitoring:
 
-<video controls>
-  <source src="https://raw.githubusercontent.com/arjunk220401/Weather-Data-Grafana-Dashboard-/a32ef276bbd9606e10593364c3e6f8bb77c41334/Rain%20Today%20Status.mp4
-">
-  Your browser does not support the video tag.
-</video>
-
+https://raw.githubusercontent.com/arjunk220401/Weather-Data-Grafana-Dashboard-/a32ef276bbd9606e10593364c3e6f8bb77c41334/Rain%20Today%20Status.mp4
 
 i) Current Rain Today Status shows 57, indicating moderate rainfall conditions that require attention for weather-dependent operations.
 
