@@ -156,13 +156,18 @@ i) Current Rain Today Status shows 57, indicating moderate rainfall conditions t
 
 ii) Real-time humidity readings of 0.800 and 0.574 suggest high moisture content in the air, which could impact indoor climate control systems.
 
+[![Watch the Video](https://img.youtube.com/vi/V9WnYtqwNbw/0.jpg)](https://www.youtube.com/watch?v=V9WnYtqwNbw "Watch the Video")
+
+
 iii) Temperature variation graph shows consistent fluctuation between 20-25°C over time periods (01:10 to 01:30), indicating stable thermal conditions
+
+[![Watch the Video](https://img.youtube.com/vi/2J3XFfj8elU/0.jpg)](https://www.youtube.com/watch?v=2J3XFfj8elU "Watch the Video")
+
 Maximum temperature of 40.4° suggests the need for heat stress management protocols during peak hours.
 
 ## Resource Management:
 
 [![Watch the Video](https://img.youtube.com/vi/RZBKWtW4iig/0.jpg)](https://www.youtube.com/watch?v=RZBKWtW4iig "Watch Rain Today Status Video")
-
 
 i) Sunshine value of 5.19 hours versus evaporation rate of 67.2 indicates high evaporation despite moderate sunshine, suggesting efficient water management strategies are needed
 
@@ -174,10 +179,13 @@ iii) Temperature patterns shown in the real-time variation graph can help optimi
 
 [![Watch the Video](https://img.youtube.com/vi/LhkfP839mP8/0.jpg)](https://www.youtube.com/watch?v=LhkfP839mP8 "Watch the Video")
 
-
 i) Extreme Wind Gust Events graph shows multiple spikes reaching 50 units between 01:10-01:30, indicating potential safety risks for outdoor operations
 
+[![Watch the Video](https://img.youtube.com/vi/SC49xJftPho/0.jpg)](https://www.youtube.com/watch?v=SC49xJftPho "Watch the Video")
+
 ii) The humidity-pressure relationship display (shown in bar format) reveals periodic fluctuations that could signal approaching weather changes
+
+[![Watch the Video](https://img.youtube.com/vi/9CejtUgxYks/0.jpg)](https://www.youtube.com/watch?v=9CejtUgxYks "Watch the Video")
 
 iii) Wind speeds comparison across locations (shown in the colored bands: green, yellow, blue, orange) helps identify high-risk zones requiring different safety protocols
 
