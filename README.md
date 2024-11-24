@@ -67,7 +67,6 @@ WHERE time > now() - 1h
 GROUP BY "rain_today_code"
 Purpose: Show the proportion of locations reporting rain in the last hour.
 
-
 ## 2. Heatmap: Humidity and Pressure Relationship
 InfluxQL Query:
 sql
@@ -150,8 +149,10 @@ GROUP BY time(5m) fill(null)
 
 [![Watch the Video](https://img.youtube.com/vi/uvmCbhy4tFo/0.jpg)](https://www.youtube.com/watch?v=uvmCbhy4tFo "Rain Today Status Video")
 
-
 i) Current Rain Today Status shows 57, indicating moderate rainfall conditions that require attention for weather-dependent operations.
+
+
+[![Watch the Video](https://img.youtube.com/vi/ZiYp4JijVwo/0.jpg)](https://www.youtube.com/watch?v=ZiYp4JijVwo "Watch the Video")
 
 ii) Real-time humidity readings of 0.800 and 0.574 suggest high moisture content in the air, which could impact indoor climate control systems.
 
