@@ -4,6 +4,8 @@
 
 ## Weather Pattern Monitoring:
 
+[![Watch the Video](https://img.youtube.com/vi/uvmCbhy4tFo/hqdefault.jpg)](https://youtu.be/uvmCbhy4tFo)
+
 i) Track real-time weather conditions
 ii) Monitor extreme weather events
 iii) Analyze daily temperature variations
