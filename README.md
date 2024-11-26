@@ -166,7 +166,7 @@ Managerial Implication: Extreme temperatures necessitate heat stress management 
 
 i) Sunshine value of 8.43 hours versus evaporation rate of 37.4 indicates high evaporation despite moderate sunshine, suggesting efficient water management strategies are needed<br/>
 
-Managerial Implication: The high evaporation rate compared to sunshine hours suggests a need for water conservation measures. Irrigation schedules should be optimized to minimize water loss during peak evaporation hours.<br/>
+** Managerial Implication: ** The high evaporation rate compared to sunshine hours suggests a need for water conservation measures. Irrigation schedules should be optimized to minimize water loss during peak evaporation hours.<br/>
 
 ii) The dashboard shows significant wind variation (57 units in wind gust data), which could be leveraged for renewable energy planning during peak wind periods<br/>
 Managerial Implication: Large variations in wind gust speeds (up to 57 units) highlight opportunities for wind energy generation. Managers should explore the feasibility of installing wind turbines in high-wind zones.<br/>
