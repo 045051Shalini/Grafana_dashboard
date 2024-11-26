@@ -131,7 +131,7 @@ GROUP BY time(5m) fill(null)<br/>
 *Purpose*: Show real-time temperature variation (max and min) in 5-minute intervals for the last hour. <br/> 
 *Visualization*: Multi-line graph.<br/>
 
-# Managerial Insights <br/>
+# Analysis <br/>
 
 ## Weather Pattern Monitoring:<br/>
 
@@ -139,19 +139,26 @@ GROUP BY time(5m) fill(null)<br/>
 
 i) Current Rain Today Status shows 71, indicating moderate rainfall conditions that require attention for weather-dependent operations.<br/>
 
+Managerial Implication: Moderate rainfall conditions require adjustments in logistics and transportation schedules to avoid delays and ensure safety. Emergency response teams should be on standby in vulnerable regions.<br/>
 
 [![Watch the Video](https://img.youtube.com/vi/ZiYp4JijVwo/0.jpg)](https://www.youtube.com/watch?v=ZiYp4JijVwo "Watch the Video")<br/>
 
 ii) Real-time humidity readings of 0.532 and 0.511 suggest high moisture content in the air, which could impact indoor climate control systems.<br/>
+
+Managerial Implication: High humidity levels may increase energy consumption in climate control systems. Managers can optimize HVAC settings or schedule maintenance to handle increased load efficiently.<br/>
 
 [![Watch the Video](https://img.youtube.com/vi/V9WnYtqwNbw/0.jpg)](https://www.youtube.com/watch?v=V9WnYtqwNbw "Watch the Video")<br/>
 
 
 iii) Temperature variation graph shows consistent fluctuation between 20-25°C over time periods (01:10 to 01:30), indicating stable thermal conditions<br/>
 
+Managerial Implication: Stable temperature ranges (20–25°C) reduce the likelihood of extreme heat or cold. This allows for steady outdoor operations and can improve worker productivity.<br/>
+
 [![Watch the Video](https://img.youtube.com/vi/2J3XFfj8elU/0.jpg)](https://www.youtube.com/watch?v=2J3XFfj8elU "Watch the Video")<br/>
 
 Maximum temperature of 39.6° suggests the need for heat stress management protocols during peak hours.<br/>
+
+Managerial Implication: Extreme temperatures necessitate heat stress management protocols, such as adjusting work hours, providing cooling facilities, and issuing health advisories to employees working outdoors.<br/>
 
 ## Resource Management:<br/>
 
@@ -159,10 +166,14 @@ Maximum temperature of 39.6° suggests the need for heat stress management proto
 
 i) Sunshine value of 8.43 hours versus evaporation rate of 37.4 indicates high evaporation despite moderate sunshine, suggesting efficient water management strategies are needed<br/>
 
+Managerial Implication: The high evaporation rate compared to sunshine hours suggests a need for water conservation measures. Irrigation schedules should be optimized to minimize water loss during peak evaporation hours.<br/>
+
 ii) The dashboard shows significant wind variation (57 units in wind gust data), which could be leveraged for renewable energy planning during peak wind periods<br/>
+Managerial Implication: Large variations in wind gust speeds (up to 57 units) highlight opportunities for wind energy generation. Managers should explore the feasibility of installing wind turbines in high-wind zones.<br/>
 
 iii) Temperature patterns shown in the real-time variation graph can help optimize HVAC system operations across different time periods<br/>
 
+ManagerialImplication: Real-time temperature data can guide HVAC system adjustments to reduce energy costs. Predictive analytics can improve system efficiency by anticipating thermal conditions.<br/>
 
 ## Risk Assessment:<br/>
 
@@ -170,14 +181,19 @@ iii) Temperature patterns shown in the real-time variation graph can help optimi
 
 i) Extreme Wind Gust Events graph shows multiple spikes reaching 50 units between 01:10-01:30, indicating potential safety risks for outdoor operations<br/>
 
+Managerial Implication: Peaks in wind gust speeds (50+ units) pose safety risks for construction sites, outdoor operations, and transportation. Temporary shutdowns or enhanced safety protocols may be necessary.<br/>
+
 [![Watch the Video](https://img.youtube.com/vi/SC49xJftPho/0.jpg)](https://www.youtube.com/watch?v=SC49xJftPho "Watch the Video")<br/>
 
 ii) The humidity-pressure relationship heat map display reveals periodic fluctuations that could signal approaching weather changes<br/>
+
+Managerial Implication: Fluctuations in humidity and pressure could indicate approaching storms or significant weather shifts. This information allows for preemptive measures like securing equipment or issuing early warnings.<br/>
 
 [![Watch the Video](https://img.youtube.com/vi/9CejtUgxYks/0.jpg)](https://www.youtube.com/watch?v=9CejtUgxYks "Watch the Video")<br/>
 
 iii) Wind speeds comparison across locations (shown in the colored bands: green, yellow, blue, orange) helps identify high-risk zones requiring different safety protocols<br/>
 
+Managerial Implication: Comparing wind speeds across locations helps identify zones with higher risks. Managers can deploy additional resources, such as reinforced structures or safety gear, in these areas.<br/>
 
 
 
