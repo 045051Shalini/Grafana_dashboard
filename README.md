@@ -56,7 +56,7 @@ It provides a rich set of normalized and raw weather data suitable for statistic
 
 # Queries<br/>
 
-## 1. Pie Chart: Rain Today Status<br/>
+## 1. Guage Chart: Rain Today Status<br/>
 InfluxQL Query:<br/>
 SELECT COUNT("rain_today_code") <br/>
 FROM "weather_data" <br/>
