@@ -2,6 +2,9 @@
 ## Dashboard <br/>
 [![Watch the Video](https://img.youtube.com/vi/yHxQ6yRFchk/0.jpg)](https://www.youtube.com/watch?v=yHxQ6yRFchk "Watch the Video")<br/>
 
+
+![Screenshot 2024-11-24 013529](https://github.com/user-attachments/assets/8040002a-a55e-41be-8c7b-819f6713fbf0) <br/>
+
 # Description of Dataset<br/>
 
 The dataset includes 70k observations, each corresponding to a specific time or day, with values for each column reflecting weather conditions at that time.<br/>
