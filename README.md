@@ -1,7 +1,9 @@
 # Real Time Weather Monitoring and Analysis<br/> 
 ## Dashboard <br/>
 
-[![Watch the Video](https://img.youtube.com/vi/yHxQ6yRFchk/0.jpg)](https://www.youtube.com/watch?v=yHxQ6yRFchk "Watch the Video")<br/>
+
+
+[![Watch the Video](https://img.youtube.com/vi/yHxQ6yRFchk/0.jpg)](https://www.youtube.com/watch?v=yHxQ6yRFchk "Watch the Video")
 
 
 
